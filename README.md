@@ -4,4 +4,4 @@ This repository contains links to talks and presentations the Speech Group @ UoA
 1. [Introduction to the Speech Signal ](https://github.com/SpeechGroupUoAuckland/Speech-Technology-Basics/blob/main/1.%20Introduction%20to%20the%20Speech%20Signal.md)
 2. [Speech Signal Processing Tools](https://github.com/SpeechGroupUoAuckland/Speech-Technology-Basics/blob/main/2.%20Speech%20Signal%20Processing%20Tools.md)
 3. [Introduction to Machine Learning for Speech](https://github.com/SpeechGroupUoAuckland/Speech-Technology-Basics/blob/main/3.%20Introduction%20to%20Machine%20Learning%20for%20Speech.md)
-4. [Speech Production, Aritificial Speech Production and Under-resourced languaged]
+4. [Speech Production, Aritificial Speech Production and Under-resourced languaged](https://github.com/SpeechGroupUoAuckland/Speech-Technology-Basics/blob/main/3.%20Speech%20Production%2C%20Artificial%20Speech%20Production%20and%20Under-resourced%20languages.pptx)
